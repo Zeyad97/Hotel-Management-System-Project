@@ -1,25 +1,41 @@
-Hotel Management System
+# 🏨 Hotel Management System
 
-This project is a Hotel Management System that provides functionalities to manage users, rooms, bookings, and payments. It includes a fully functional admin panel for room management, employee control, and booking confirmations, along with a frontend for room selection, user sign-up, and login.
+A complete **Hotel Management System** built using **HTML, CSS, JavaScript, PHP, and MySQL**.  
+This system allows for **room booking, employee management, admin control, and user authentication**.
 
-Features
-User Authentication: Sign Up / Sign In for customers
+Originally developed as a **university project**, and then expanded into a fully functional system.
 
-Admin Panel: Manage employees, rooms, and bookings
+---
 
-Room Management: Add, delete, and update rooms with detailed descriptions
+## 📌 Description
 
-Booking System: Customers can select and confirm rooms
+The system includes both **Frontend** for customers and **Admin Panel** for management. It supports full room booking functionality, employee control, and real-time booking confirmations. Payments can be handled manually (no online payment integration yet).
 
-Payment: Payment system integration for booking
+---
 
-Employee Management: Admin can manage employees and their roles
+## ✅ Features
 
-Database Integration: MySQL for storing room, user, and booking data
+- 🔐 **User Authentication** – Sign Up / Sign In
+- 🏨 **Room Management** – Add, update, and delete rooms with details
+- 📅 **Booking System** – Users can select, confirm, and view bookings
+- 👨‍💼 **Admin Panel** – Full control over rooms, employees, and bookings
+- 🧑‍💼 **Employee Management** – Admin can add or remove employees
+- 💾 **Database Integration** – All data stored in MySQL via PHPMyAdmin
 
-Technologies Used
-Frontend: HTML, CSS, JavaScript, Bootstrap
+---
 
-Backend: PHP
+## 🛠️ Technologies Used
 
-Database: MySQL, PHPMyAdmin
+| Layer     | Technology              |
+|-----------|--------------------------|
+| Frontend  | HTML, CSS, JavaScript, Bootstrap |
+| Backend   | PHP                      |
+| Database  | MySQL (via PHPMyAdmin)   |
+
+---
+
+## 🖥️ Video
+
+> https://youtu.be/ccI8xptaxHo?si=bI9tq0KuUa0FzFS_)
+
+---
